@@ -1,0 +1,21 @@
+.flash {
+    padding: 5px;
+    margin: 0 auto;
+    width: 50%;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.flash p {
+    margin: 0;
+}
+
+.error-msg {
+    color: #fff;
+    background-color: #900;
+}
+
+.success-msg {
+    color: #fff;
+    background-color: #090;
+}
